@@ -8,6 +8,6 @@ https://drive.google.com/file/d/0B-20iuF5gIcyQWtpOVlnTTREX3M/view
 It's a good explanation for his scheme. But it's written by java and R. 
 We will use python
 
-https://www.kaggle.com/marknagelberg/crowdflower-search-relevance/feature-extraction-for-final-model
+https://github.com/marknagelberg/search-relevance
 
-It's python,but it's only about how to extract features. On the other hand, you have to understand the code. Less comments there. 
+It's a good start for python. We need to understand his code.
